@@ -2,7 +2,8 @@
 # Project home page https://github.com/PracticalChip/Adblocking
 
 # This was added at the request of the developer of Diversion
-
+www.googleadservices.com
+googleadservices.com
 steamcdn-a.akamaihd.net
 media.steampowered.com	
 media4.steampowered.com
